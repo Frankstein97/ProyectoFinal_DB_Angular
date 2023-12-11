@@ -1,0 +1,338 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "lastName": "admin",
+      "password": "111",
+      "email": "admin@example.com",
+      "token": "aaaaaa",
+      "role": "ADMIN",
+      "id": 1
+    },
+    {
+      "name": "employee",
+      "lastName": "employee",
+      "email": "employee@example.com",
+      "password": "222",
+      "token": "bbbbbb",
+      "role": "EMPLOYEE",
+      "id": 2
+    },
+    {
+      "name": "Minotauro",
+      "lastName": "Toro",
+      "email": "minotauro@example.com",
+      "password": "789",
+      "token": "ghi789",
+      "role": "STUDENT",
+      "id": 3
+    },
+    {
+      "name": "Harpía",
+      "lastName": "Aguilera",
+      "email": "harpía@example.com",
+      "password": "890",
+      "token": "fffggg",
+      "role": "STUDENT",
+      "id": 4
+    },
+    {
+      "name": "Esfinge",
+      "lastName": "Gatuna",
+      "email": "esfinge@example.com",
+      "password": "123",
+      "token": "abc123",
+      "role": "STUDENT",
+      "id": 5
+    },
+    {
+      "name": "Fénix",
+      "lastName": "Ardiente",
+      "email": "fenix@example.com",
+      "password": "456",
+      "token": "def456",
+      "role": "STUDENT",
+      "id": 6
+    },
+    {
+      "name": "Cérbero",
+      "lastName": "Guardia",
+      "email": "cerbero@example.com",
+      "password": "789",
+      "token": "ghi789",
+      "role": "STUDENT",
+      "id": 7
+    },
+    {
+      "name": "Médusa",
+      "lastName": "Gorgona",
+      "email": "medusa@example.com",
+      "password": "890",
+      "token": "fffggg",
+      "role": "STUDENT",
+      "id": 8
+    },
+    {
+      "name": "Pegaso",
+      "lastName": "Alado",
+      "email": "pegaso@example.com",
+      "password": "123",
+      "token": "abc123",
+      "role": "STUDENT",
+      "id": 9
+    },
+    {
+      "name": "Hidra",
+      "lastName": "Hidrante",
+      "email": "hidra@example.com",
+      "password": "456",
+      "token": "def456",
+      "role": "STUDENT",
+      "id": 10
+    },
+    {
+      "name": "Céntauro",
+      "lastName": "Sagital",
+      "email": "centauro@example.com",
+      "password": "789",
+      "token": "ghi789",
+      "role": "STUDENT",
+      "id": 11
+    },
+    {
+      "name": "Siléno",
+      "lastName": "Bebido",
+      "email": "sileno@example.com",
+      "password": "890",
+      "token": "fffggg",
+      "role": "STUDENT",
+      "id": 12
+    },
+    {
+      "name": "Cíclope",
+      "lastName": "Monocular",
+      "email": "ciclope@example.com",
+      "password": "123",
+      "token": "abc123",
+      "role": "STUDENT",
+      "id": 13
+    },
+    {
+      "name": "Hermés",
+      "lastName": "Médico",
+      "email": "hermes@example.com",
+      "password": "456",
+      "token": "def456",
+      "role": "STUDENT",
+      "id": 14
+    },
+    {
+      "name": "Anubis",
+      "lastName": "Embalsamador",
+      "email": "anubis@example.com",
+      "password": "789",
+      "token": "ghi789",
+      "role": "STUDENT",
+      "id": 15
+    },
+    {
+      "name": "Bastet",
+      "lastName": "Felino",
+      "email": "bastet@example.com",
+      "password": "890",
+      "token": "fffggg",
+      "role": "STUDENT",
+      "id": 16
+    },
+    {
+      "name": "Osiris",
+      "lastName": "Renacido",
+      "email": "osiris@example.com",
+      "password": "123",
+      "token": "abc123",
+      "role": "STUDENT",
+      "id": 17
+    },
+    {
+      "name": "Thor",
+      "lastName": "Tronador",
+      "email": "thor@example.com",
+      "password": "456",
+      "token": "def456",
+      "role": "STUDENT",
+      "id": 18
+    },
+    {
+      "name": "Isis",
+      "lastName": "Diosa",
+      "email": "isis@example.com",
+      "password": "789",
+      "token": "ghi789",
+      "role": "STUDENT",
+      "id": 19
+    },
+    {
+      "name": "Athena",
+      "lastName": "Sabia",
+      "email": "athena@example.com",
+      "password": "890",
+      "token": "fffggg",
+      "role": "STUDENT",
+      "id": 20
+    }
+  ],
+  "enrollments": [
+    {
+      "id": 3,
+      "courseId": 3,
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "courseId": 4,
+      "userId": 4
+    },
+    {
+      "id": 5,
+      "courseId": 5,
+      "userId": 5
+    },
+    {
+      "id": 6,
+      "courseId": 6,
+      "userId": 6
+    },
+    {
+      "id": 7,
+      "courseId": 7,
+      "userId": 7
+    },
+    {
+      "id": 8,
+      "courseId": 8,
+      "userId": 8
+    },
+    {
+      "id": 9,
+      "courseId": 9,
+      "userId": 9
+    },
+    {
+      "id": 10,
+      "courseId": 10,
+      "userId": 10
+    },
+    {
+      "id": 11,
+      "courseId": 1,
+      "userId": 11
+    },
+    {
+      "id": 12,
+      "courseId": 2,
+      "userId": 12
+    },
+    {
+      "id": 13,
+      "courseId": 3,
+      "userId": 13
+    },
+    {
+      "id": 14,
+      "courseId": 4,
+      "userId": 14
+    },
+    {
+      "id": 15,
+      "courseId": 5,
+      "userId": 15
+    },
+    {
+      "id": 16,
+      "courseId": 6,
+      "userId": 16
+    },
+    {
+      "id": 17,
+      "courseId": 7,
+      "userId": 17
+    },
+    {
+      "id": 18,
+      "courseId": 8,
+      "userId": 18
+    },
+    {
+      "id": 19,
+      "courseId": 9,
+      "userId": 19
+    },
+    {
+      "id": 20,
+      "courseId": 10,
+      "userId": 20
+    }
+  ],
+  "courses": [
+    {
+      "name": "Control de Poderes Mitológicos",
+      "startDate": "2023-11-04T03:00:00.000Z",
+      "endDate": "2024-06-14T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "name": "Ética Mítica",
+      "startDate": "2023-12-18T03:00:00.000Z",
+      "endDate": "2024-12-02T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "name": "Brujería y Mitología",
+      "startDate": "2023-09-15T03:00:00.000Z",
+      "endDate": "2024-05-25T03:00:00.000Z",
+      "id": 3
+    },
+    {
+      "name": "Criaturas Mitológicas Creaturas",
+      "startDate": "2023-10-10T03:00:00.000Z",
+      "endDate": "2024-07-20T03:00:00.000Z",
+      "id": 4
+    },
+    {
+      "name": "Dioses y Monstruos",
+      "startDate": "2023-11-30T03:00:00.000Z",
+      "endDate": "2024-08-12T03:00:00.000Z",
+      "id": 5
+    },
+    {
+      "name": "Hidra Mítica",
+      "startDate": "2023-12-25T03:00:00.000Z",
+      "endDate": "2024-09-05T03:00:00.000Z",
+      "id": 6
+    },
+    {
+      "name": "Cerberología",
+      "startDate": "2023-09-01T03:00:00.000Z",
+      "endDate": "2024-04-15T03:00:00.000Z",
+      "id": 7
+    },
+    {
+      "name": "Minotauro Manía",
+      "startDate": "2023-10-20T03:00:00.000Z",
+      "endDate": "2024-06-30T03:00:00.000Z",
+      "id": 8
+    },
+    {
+      "name": "Filosofía del Fénix",
+      "startDate": "2023-11-15T03:00:00.000Z",
+      "endDate": "2024-07-25T03:00:00.000Z",
+      "id": 9
+    },
+    {
+      "name": "Mitología de Minerva",
+      "startDate": "2023-12-10T03:00:00.000Z",
+      "endDate": "2024-08-20T03:00:00.000Z",
+      "id": 10
+    }
+  ]
+}
